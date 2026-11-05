@@ -1,0 +1,6 @@
+torch
+torchvision
+gradio
+nibabel
+numpy
+matplotlib
