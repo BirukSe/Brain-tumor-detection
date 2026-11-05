@@ -1,1 +1,0 @@
-/home/biruk/Downloads/brain-tumor-segmentation
